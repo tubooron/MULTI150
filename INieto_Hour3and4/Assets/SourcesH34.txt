@@ -1,0 +1,14 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.bing.com/images/search?view=detailV2&ccid=NeCsTSRr&id=EB4CAA95C2E8BC4F2B7AC763CBEBB66AF6C8588F&thid=OIP.NeCsTSRre2jBnSXgh__9JwHaHa&mediaurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F12%2F01%2F05%2F56%2Fseamless-texture-1874513_1280.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.35e0ac4d246b7b68c19d25e087fffd27%3Frik%3Dj1jI9mq268tjxw%26pid%3DImgRaw%26r%3D0&exph=1280&expw=1280&q=seamless+textures+jpg&FORM=IRPRST&ck=76D93820B2BC463095276D19AEBA1E48&selectedIndex=0&itb=0&cw=1289&ch=2185&ajaxhist=0&ajaxserp=0
+
+Texture 2 source url: https://www.bing.com/images/search?view=detailV2&ccid=CzLmOB0l&id=3148BDC9AE87A9ACD24334AA249593F3DD6BA913&thid=OIP.CzLmOB0l8VC3RByQopD0GgHaFj&mediaurl=https%3A%2F%2Funblast.com%2Fwp-content%2Fuploads%2F2020%2F04%2FSeamless-Rust-Texture-3.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0b32e6381d25f150b7441c90a290f41a%3Frik%3DE6lr3fOTlSSqNA%26pid%3DImgRaw%26r%3D0&exph=1500&expw=2000&q=seamless+textures+jpg&FORM=IRPRST&ck=B65820A3F745B57064BD94078D0FE1B1&selectedIndex=32&itb=0&cw=1289&ch=2185&ajaxhist=0&ajaxserp=0
+
+3D model source url: https://assetstore.unity.com/packages/3d/props/interior/treasure-chest-pbr-72498
+

@@ -8,16 +8,18 @@
 
 A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
 
-
+Yellow goal is the easier route, while the purple route is more challenging and requires more uses of the jumps to go higher in the scene
 
 B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
 
-
+Lava and Spikes are added as new hazards
 
 C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
 
 
 
 D. Modify the sky and textures to create a world based on your theme.
+
+Made a custom sky material that gives it a dark, unknown, and eclipsed theme. A mix of Iron Lung and Metroid
 
 

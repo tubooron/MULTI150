@@ -9,6 +9,14 @@ public class FireBallScript : MonoBehaviour
     {
         int x = TakeDamageFromFireball();
         Debug.Log("Player health: " + x);
+
+        int y = TakeDamageFromFireball(25);
+        print("Player health: " + y);
+
+        int z = TakeDamageFromFireball(30, 50);
+        print("Player health: " + z);
+
+
     }
 
     // Update is called once per frame

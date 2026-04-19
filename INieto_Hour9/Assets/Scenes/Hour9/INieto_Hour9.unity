@@ -219,6 +219,7 @@ GameObject:
   - component: {fileID: 578481699}
   - component: {fileID: 578481698}
   - component: {fileID: 578481702}
+  - component: {fileID: 578481703}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -316,6 +317,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80df21fd04c1c7549b5516635c82b7d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!54 &578481703
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578481697}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &696570931
 GameObject:
   m_ObjectHideFlags: 0
@@ -344,7 +361,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 696570931}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -426,6 +443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76b5b837ecd440d45a882eae1d5935dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  triggerYouWant: {fileID: 696570931}
 --- !u!1 &883141803
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,7 +566,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1980753119}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -630,3 +648,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76b5b837ecd440d45a882eae1d5935dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  triggerYouWant: {fileID: 1980753119}

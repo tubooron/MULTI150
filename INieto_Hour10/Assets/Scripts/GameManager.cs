@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     /* 
      * Exercise completion is labeled with numbers in the comments if they are within this code
-     * Choosen improvements: Add Timer (DONE), Adding variations of the chaos balls, Adding a Chaos goal, Change the shape/size of the players bumper (DONE)
+     * Choosen improvements: Add Timer (DONE), Adding variations of the chaos balls (DONE), Adding a Chaos goal (DONE), Change the shape/size of the players bumper (DONE)
      */
     public GoalScript blue, green, red, orange, chaos;
     private bool isGameOver = true;
@@ -25,8 +25,8 @@ public class GameManager : MonoBehaviour
         {
             elapsedTime += Time.deltaTime;
         }
-        // if all four goals are solved then the game is over
-        isGameOver = blue.isSolved && green.isSolved && red.isSolved && orange.isSolved;
+        // Game now ends if every ball on the level has been scored
+        isGameOver = blue.isSolved && green.isSolved && red.isSolved && orange.isSolved && chaos.isSolved;
     }
 
     /* Create a ChaosBall Method that checks for how many chaos balls there are in the level and saves the number into a variable. 

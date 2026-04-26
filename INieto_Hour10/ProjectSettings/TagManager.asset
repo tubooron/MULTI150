@@ -9,6 +9,7 @@ TagManager:
   - Orange
   - Red
   - Blue
+  - ChaosGameGoal
   layers:
   - Default
   - TransparentFX

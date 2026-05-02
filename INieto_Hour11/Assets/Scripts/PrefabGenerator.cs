@@ -5,10 +5,15 @@ using UnityEngine;
 public class PrefabGenerator : MonoBehaviour
 {
     public GameObject prefab;
+    float x_Location = -25;
     // Start is called before the first frame update
     void Start()
     {
-        
+        for(int i = 0; i < 10; i++)
+        {
+            Instantiate(prefab, new Vector3(x_Location,0f,-5f), transform.rotation);
+            x_Location += 5;
+        }
     }
 
     // Update is called once per frame

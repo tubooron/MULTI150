@@ -53,7 +53,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    void phaseIn()
+    void PhaseIn()
     {
         canPhase = true;
         mesh.material = normalMat;

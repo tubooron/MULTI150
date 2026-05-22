@@ -46,7 +46,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5793165301876472483}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: 6eef872720cdc8049aa971a249922bcc, type: 3}
 --- !u!23 &5793165301876472486
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4971,3 +4971,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f214025971c5b17479e1d6c9a5847df2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  manager: {fileID: 0}
+  moveSpeed: 20
+  timeAmount: 1.5
